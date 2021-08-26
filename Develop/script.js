@@ -1,6 +1,6 @@
 // This will display current day in the header
 
-$("#currentday").text(moment().format("dddd, mmmm Do, YYYY"));
+$("#currentDay").text(moment().format("dddd, MMMM Do, YYYY"));
 
 const container = $(".container");
 
@@ -14,10 +14,10 @@ const addHours = () => {
 
         const nextHour = $("<div>")
     }
-
- // Set text for each textarea block from local storage if it's there, and leave it blank if not
-
- // need to Add save a button icon to each save button
+   
+    // need to Set text for each text area block from local storage if it's there, and leave it blank if not
+   
+    // need to Add save a button icon to each save button
 
 } 
 
