@@ -14,7 +14,6 @@ const addHours =() => {
 
         const nextHour = $("<div>");
         nextHour.attr("class", "hour");
-        // this should set text content for our hour blocks.
         nextHour.text(moment().hour(i + 9).format("hA"));    
    
         // need to Set text for each text area block from local storage if it's there, and leave it blank if not
