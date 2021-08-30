@@ -1,6 +1,6 @@
 # Daily Planner
 
-### Sometimes all you need is a simple daily planner to talke the day.
+#### Sometimes all you need is a simple daily planner to tackle the day.
 
 ## Table of Contents
 * [Installation](#Installation)
