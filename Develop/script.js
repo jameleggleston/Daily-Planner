@@ -33,10 +33,10 @@ const addHours =() => {
         nextSave.append(nextIconContainer);
         let nextIcon = $("<img>");
         nextIcon.attr({
-        src: "/Assets/Save-icon2.png",
+        src: "./assets/Save2.png", 
         width: "15px",
         height: "15px",
-        alt: "Floppy Disk icon"
+        alt: "Floppy Disk icon",
         });
         nextIconContainer.append(nextIcon);
 
